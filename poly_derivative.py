@@ -4,6 +4,8 @@ a1 = -2
 a2 = 4.6
 a3 = 0.2
 
+#Blabla
+
 # Point at which we evaluate the derivative
 x0 = 3.1
 
